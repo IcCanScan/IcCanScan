@@ -1,0 +1,5 @@
+- 👋 Hi, We’are @IcCanScan
+- 👀 We audit canister on the Internet Computer.
+- 💞️ We are looking for projects to audit.
+- 📫 Reach out to us on discord or email.
+- 💌 Discord: `canscan#1566`
